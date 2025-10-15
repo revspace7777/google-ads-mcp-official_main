@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "GoogleAds-CDATA": {
+      "command": "GoogleAdWordsMCPServer.exe",
+      "args": [],
+      "cwd": "C:\\Users\\samso\\_cursor_projects\\google-ads-mcp",
+      "env": {
+        "GOOGLE_ADS_CONFIG": "google-ads.yaml"
+      },
+      "timeout": 30000,
+      "trust": false,
+      "description": "CDATA Google Ads MCP Server (Windows executable)"
+    },
+    "GoogleAds-Official": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:\\Users\\samso\\_cursor_projects\\google-ads-mcp\\official-google-ads-mcp",
+        "-m",
+        "ads_mcp.server"
+      ],
+      "cwd": "C:\\Users\\samso\\_cursor_projects\\google-ads-mcp\\official-google-ads-mcp",
+      "env": {
+        "GOOGLE_ADS_CREDENTIALS": "C:\\Users\\samso\\_cursor_projects\\google-ads-mcp\\google-ads.yaml"
+      },
+      "timeout": 30000,
+      "trust": false,
+      "description": "Official Google Ads MCP Server from GitHub"
+    }
+  },
+  "activeServer": "GoogleAds-CDATA",
+  "availableServers": [
+    "GoogleAds-CDATA",
+    "GoogleAds-Official"
+  ]
+}

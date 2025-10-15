@@ -1,0 +1,15 @@
+# Google Ads Customer IDs
+# Format: Account Name | Customer ID (with dashes) | Customer ID (without dashes for API)
+
+MCC Account:
+Zeroshot Solutions (Manager) | 467-366-9771 | 4673669771
+
+Customer Accounts:
+T&E Moving and Storage LLC | 584-014-4764 | 5840144764
+B & B Movers (Tarik Bilgin) | 211-137-1572 | 2111371572
+678 Rid Junk LLC | 864-019-0225 | 8640190225
+Moving & Storage of Jacksonville | 728-350-6172 | 7283506172
+Ocean Movers Main | 155-674-4976 | 1556744976
+ILO's Appliance Repair | 572-702-4154 | 5727024154
+Colonial Trucking Insurance | 245-225-7371 | 2452257371
+

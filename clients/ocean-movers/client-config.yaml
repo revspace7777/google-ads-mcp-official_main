@@ -1,0 +1,21 @@
+# Ocean Movers Main - Client Configuration
+client_name: Ocean Movers Main
+customer_id: "1556744976"
+customer_id_formatted: "155-674-4976"
+
+# Account Details
+account_type: Google Ads Customer Account
+parent_mcc: "4673669771"  # Zeroshot Solutions (Manager)
+
+# API Configuration (inherits from root google-ads.yaml)
+# Uses credentials from: ../../google-ads.yaml
+
+# Campaign Focus Areas
+# - Local Services
+# - Moving & Storage Services
+# - Geographic targeting
+
+# Notes
+# Created: 2025-10-13
+# Status: Active
+

@@ -1,0 +1,20 @@
+# T&E Moving and Storage LLC - Client Configuration
+client_name: T&E Moving and Storage LLC
+customer_id: "5840144764"
+customer_id_formatted: "584-014-4764"
+
+# Account Details
+account_type: Google Ads Customer Account
+parent_mcc: "4673669771"  # Zeroshot Solutions (Manager)
+
+# API Configuration (inherits from root google-ads.yaml)
+# Uses credentials from: ../../google-ads.yaml
+
+# Campaign Focus Areas
+# - Moving & Storage Services
+# - Geographic targeting
+
+# Notes
+# Created: 2025-10-13
+# Status: Active - Analysis in progress
+

@@ -1,0 +1,81 @@
+# Google Ads API Credentials
+google-ads.yaml
+*.yaml
+!client-config.yaml
+!clients/**/client-config.yaml
+
+# OAuth credentials
+client_secret_*.json
+*.json
+!mcp-config.json
+!package.json
+
+# Tokens and keys
+refresh_token.txt
+*.token
+*.key
+
+# Archive directory (contains old credentials)
+archive/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# VS Code / Cursor
+.vscode/
+.cursor/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Client data (protect sensitive information)
+clients/*/reports/*.csv
+clients/*/reports/*.xlsx
+clients/*/data/
+
+# Media files (large video/image files)
+clients/*/media/
+*.mp4
+*.mov
+*.avi
+*.mp3
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Environment variables
+.env
+.env.local
+

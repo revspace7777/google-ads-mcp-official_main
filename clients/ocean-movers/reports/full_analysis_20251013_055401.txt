@@ -1,0 +1,228 @@
+================================================================================
+Ocean Movers Main - COMPLETE ACCOUNT ANALYSIS
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Customer ID: 1556744976
+Analysis Date: 2025-10-13 05:54:01
+
+Total Campaigns: 17
+Total Ad Groups: 55
+Total Keywords: 80
+Campaign-level Negatives: 2064
+Ad Group-level Negatives: 20
+Shared Negative Lists: 2
+Search Queries (14 days): 1573
+Unwanted Queries: 11
+
+CAMPAIGNS
+--------------------------------------------------------------------------------
+
+1
+  ID: 1754055525
+  Type: SMART
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+1 #2
+  ID: 1006814159
+  Type: SMART
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+2013 Hand Upgrate Deleted
+  ID: 147396472
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: MANUAL_CPC
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Call Only
+  ID: 189898432
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Call Only
+  ID: 886149825
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Campaign #1
+  ID: 54332992
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+LocalServicesCampaign:SystemGenerated:0005d4e9985626a2
+  ID: 15781685004
+  Type: LOCAL_SERVICES
+  Status: ENABLED
+  Bidding: MAXIMIZE_CONVERSIONS
+  Stats: 11675 impr, 549 clicks, $1869.25, 37.0 conv
+
+MSJ/Ocean--25-07-11 ///
+  ID: 22789233523
+  Type: SEARCH
+  Status: PAUSED
+  Bidding: TARGET_SPEND
+  Stats: 1619 impr, 88 clicks, $1120.23, 5.0 conv
+
+MSJ/Ocean--Junk--25-07-18 ///
+  ID: 22808339276
+  Type: SEARCH
+  Status: PAUSED
+  Bidding: TARGET_SPEND
+  Stats: 355 impr, 11 clicks, $196.28, 0.0 conv
+
+Moving Company, Mover
+  ID: 19810919706
+  Type: SMART
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+New Campaign
+  ID: 154593472
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Ocean Movers Afternoon
+  ID: 203185312
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Ocean Movers Call Only
+  ID: 1493267908
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: ENHANCED_CPC
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Ocean Movers Display
+  ID: 886056891
+  Type: DISPLAY
+  Status: REMOVED
+  Bidding: MANUAL_CPC
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Ocean Movers Jacksonville Florida
+  ID: 55899352
+  Type: SEARCH
+  Status: ENABLED
+  Bidding: MAXIMIZE_CONVERSIONS
+  Stats: 4693 impr, 818 clicks, $2489.04, 66.0 conv
+
+Ocean Movers-Google Search Opt
+  ID: 147396592
+  Type: SEARCH
+  Status: REMOVED
+  Bidding: TARGET_SPEND
+  Stats: 0 impr, 0 clicks, $0.00, 0.0 conv
+
+Performance Max-1
+  ID: 20194495110
+  Type: PERFORMANCE_MAX
+  Status: ENABLED
+  Bidding: MAXIMIZE_CONVERSIONS
+  Stats: 5228 impr, 609 clicks, $1054.03, 141.0 conv
+
+
+UNWANTED QUERIES (TRUCK RENTAL, UHAUL, ETC.)
+--------------------------------------------------------------------------------
+
+X 'penske near me'
+  Pattern: penske
+  Triggered: local moving company (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 5 impr, 0 clicks, $0.00
+
+X 'u hauls near me'
+  Pattern: u haul
+  Triggered: moving jacksonville fl (BROAD)
+  Campaign: Ocean Movers Jacksonville Florida
+  Ad Group: Movers Jacksonville FL #4
+  Stats: 2 impr, 0 clicks, $0.00
+
+X 'u hauls near me'
+  Pattern: u haul
+  Triggered: apartment movers jacksonville (BROAD)
+  Campaign: Ocean Movers Jacksonville Florida
+  Ad Group: Movers Jacksonville FL #3
+  Stats: 2 impr, 0 clicks, $0.00
+
+X 'closest penske to my location'
+  Pattern: penske
+  Triggered: local moving company (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 2 impr, 0 clicks, $0.00
+
+X 'u hauls close to me'
+  Pattern: u haul
+  Triggered: local moving company (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 2 impr, 0 clicks, $0.00
+
+X 'enterprise moving trucks'
+  Pattern: enterprise
+  Triggered: moving (BROAD)
+  Campaign: Ocean Movers Jacksonville Florida
+  Ad Group: Moving Companies
+  Stats: 1 impr, 0 clicks, $0.00
+
+X 'hired movers near me'
+  Pattern: hire
+  Triggered: movers (BROAD)
+  Campaign: Ocean Movers Jacksonville Florida
+  Ad Group: Moving Companies
+  Stats: 1 impr, 0 clicks, $0.00
+
+X 'shipping containers rentals'
+  Pattern: rental
+  Triggered: pack and storage service (BROAD)
+  Campaign: Ocean Movers Jacksonville Florida
+  Ad Group: Moving Companies
+  Stats: 1 impr, 0 clicks, $0.00
+
+X 'penske nearby'
+  Pattern: penske
+  Triggered: local moving company (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 1 impr, 0 clicks, $0.00
+
+X 'u hauls near me'
+  Pattern: u haul
+  Triggered: local moving company (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 1 impr, 0 clicks, $0.00
+
+X 'u hauls near me'
+  Pattern: u haul
+  Triggered: local moving service (PHRASE)
+  Campaign: MSJ/Ocean--25-07-11 ///
+  Ad Group: Local Moving
+  Stats: 1 impr, 0 clicks, $0.00
+
+TOTAL WASTE: $0.00 (0 clicks)
+
+
+RECOMMENDED NEGATIVE KEYWORDS
+--------------------------------------------------------------------------------
+
+Good coverage on common unwanted terms
